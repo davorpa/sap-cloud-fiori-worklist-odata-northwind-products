@@ -69,7 +69,10 @@
 			},
 			"": {
 				"dataSource": "mainService",
-				"preload": true
+				"preload": true,
+				"settings": {
+					"useBatch": false
+				}
 			}
 		},
 		"routing": {
