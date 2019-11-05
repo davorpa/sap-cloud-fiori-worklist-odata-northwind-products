@@ -2,9 +2,13 @@
 SAP Developers Tutorial:
 
 MISSION:
+
 Take a Deep Dive into OData
+
 GROUP:
+
 See What Cloud Platform Tools Can Do with OData
+
 
 https://developers.sap.com/tutorials/odata-03-webide-odata-features.html
 
