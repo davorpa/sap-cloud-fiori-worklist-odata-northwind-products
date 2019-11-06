@@ -6,6 +6,7 @@ MISSION: Take a Deep Dive into OData
 GROUP: See What Cloud Platform Tools Can Do with OData
 
 Use SAP Web IDE OData Features to Create a Simple App
+
 https://developers.sap.com/tutorials/odata-03-webide-odata-features.html
 
 
